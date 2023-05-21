@@ -1,2 +1,3 @@
 @echo off
-node index.js
+cls
+node ./server/index.js

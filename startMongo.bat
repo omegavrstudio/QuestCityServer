@@ -1,0 +1,1 @@
+"C:\Program Files\MongoDB\mongosh-1.9.0-win32-x64\bin\mongosh.exe"
